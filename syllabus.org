@@ -1,0 +1,34 @@
+* Fair bit of basics.
+  Hey guys feel free to fork this if you want and put notes in it.
+  Also feel free not to. 
+** Javascript Knowledge  
+*** Conditionals
+*** Loops
+*** Functions
+*** Variable assignment and scope
+*** Objects 
+*** Arrays
+*** Promises
+*** Exercises
+**** Try to solve a couple project euler problems.
+** Angular knowledge
+*** How to start an angular app from scratch
+*** How to start an angular app boilerplate
+*** Controllers
+*** Services
+*** Factories
+*** Directive
+*** Exercises
+**** Build a todo app from scratch
+     1. It would need to track and display your to do items as well as 
+        where or not you have "done" the todo.
+     2. Bonus points if you can save your list to a text file or database.
+**** Build your own version of the ng-repeat directive.
+** PHP knowledge
+*** Associative Arrays
+*** How to get information from a database.
+*** How to access that information with an ajax javascript call.
+*** Basics of laravel project structure.
+*** Exercises
+**** Build a small php CRUD api.    
+**** Try a few of the javascript exercises from above in php.
