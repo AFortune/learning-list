@@ -33,5 +33,5 @@
 **** How to access that information with an ajax javascript call.
 **** Basics of laravel project structure.
 **** Exercises
-***** Build a small php CRUD api.    
-***** Try a few of the javascript exercises from above in php.
+1. Build a small php CRUD api.    
+2. Try a few of the javascript exercises from above in php.
