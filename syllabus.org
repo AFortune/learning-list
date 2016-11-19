@@ -11,6 +11,9 @@
 *** Promises
 *** Exercises
 **** Try to solve a couple project euler problems.
+**** Try to reverse a string with a for loop
+**** Filter all odd numbers from array
+**** Check to see if a string is a palindrom (spelled the same if reversed).
 ** Angular knowledge
 *** How to start an angular app from scratch
 *** How to start an angular app boilerplate
