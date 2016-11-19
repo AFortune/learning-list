@@ -20,11 +20,11 @@
 *** Controllers
 *** Services
 *** Factories
-*** Directive
+*** Directives
 *** Exercises
 **** Build a todo app from scratch
      1. It would need to track and display your to do items as well as 
-        where or not you have "done" the todo.
+        whether or not you have "done" the todo.
      2. Bonus points if you can save your list to a text file or database.
 **** Build your own version of the ng-repeat directive.
 ** PHP knowledge
