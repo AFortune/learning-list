@@ -10,10 +10,10 @@
 **** Arrays
 **** Promises
 **** Exercises
-***** Try to solve a couple project euler problems.
-***** Try to reverse a string with a for loop
-***** Filter all odd numbers from array
-***** Check to see if a string is a palindrom (spelled the same if reversed).
+1. Try to solve a couple project euler problems.
+2. Try to reverse a string with a for loop
+3. Filter all odd numbers from array
+4. Check to see if a string is a palindrom (spelled the same if reversed).
 ** Angular knowledge
 **** How to start an angular app from scratch
 **** How to start an angular app boilerplate
@@ -22,11 +22,11 @@
 **** Factories
 **** Directives
 **** Exercises
-***** Build a todo app from scratch
+1. Build a todo app from scratch
       1. It would need to track and display your to do items as well as 
          whether or not you have "done" the todo.
       2. Bonus points if you can save your list to a text file or database.
-***** Build your own version of the ng-repeat directive.
+2. Build your own version of the ng-repeat directive.
 ** PHP knowledge
 **** Associative Arrays
 **** How to get information from a database.
